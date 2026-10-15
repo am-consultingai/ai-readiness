@@ -12,7 +12,6 @@ export default function Hero() {
     <section className="hero">
       <div className="container hero-grid">
         <div className="reveal in">
-          <span className="eyebrow">{t.eyebrow}</span>
           <h1>{t.h1pre}<span className="accent">{t.h1accent}</span></h1>
           <p className="lead">
             {t.lead1}<em>{t.leadEm}</em>{t.lead2}<b>{t.leadBold}</b>{t.lead3}

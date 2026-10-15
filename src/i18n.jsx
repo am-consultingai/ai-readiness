@@ -20,7 +20,6 @@ export const T = {
       switch: 'EN',
     },
     hero: {
-      eyebrow: 'ליצרנים, חברות תשתית ותעשייה מבוססת IoT',
       h1pre: 'בזמן שאתם שוקלים את האפשרויות, המתחרים שלכם כבר ',
       h1accent: 'מטמיעים AI.',
       lead1: 'הפער מתרחב בכל רבעון. אז השאלה האמיתית היא לא ',
@@ -250,7 +249,6 @@ export const T = {
       switch: 'עב',
     },
     hero: {
-      eyebrow: 'For manufacturers, utilities & IoT-driven operations',
       h1pre: 'While you weigh your options, your competitors are already ',
       h1accent: 'deploying AI.',
       lead1: 'The gap widens every quarter. So the real question isn’t ',
